@@ -1,0 +1,47 @@
+{
+  "name": "mac-audio-capture",
+  "version": "1.0.0",
+  "description": "Node.js module for capturing Mac system audio using Swift and CoreAudio",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "keywords": [
+    "audio",
+    "capture",
+    "macos",
+    "coreaudio",
+    "swift",
+    "nodejs",
+    "system-audio"
+  ],
+  "author": "Sparticle Inc.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sparticleinc/mac-audio-capture.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sparticleinc/mac-audio-capture/issues"
+  },
+      "homepage": "https://github.com/sparticleinc/mac-audio-capture#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "os": ["darwin"],
+  "scripts": {
+    "build": "swift build -c release -Xlinker -undefined -Xlinker dynamic_lookup && mv .build/release/libMacAudioCapture.dylib .build/release/audio.node",
+    "dev": "swift build && mv .build/debug/libMacAudioCapture.dylib .build/debug/audio.node",
+    "test": "node test/test.js",
+    "example": "node examples/basic-capture.js",
+    "clean": "rm -rf .build && swift package clean",
+    "postinstall": "npm run build",
+    "lint": "eslint lib/ examples/ test/",
+    "format": "prettier --write lib/ examples/ test/"
+  },
+  "dependencies": {
+    "node-addon-api": "^1.7.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0"
+  }
+}

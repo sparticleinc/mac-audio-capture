@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "NAPI",
+        "repositoryURL": "https://github.com/LinusU/swift-napi-bindings",
+        "state": {
+          "branch": null,
+          "revision": "ce9dc605af4d6d2f29f928c26e3b6eff41cba192",
+          "version": "1.0.0-alpha.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
