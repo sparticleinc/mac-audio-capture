@@ -347,7 +347,7 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 ## 🎯 项目支持
 
-本项目由 [Felo Subtitles](https://subtitles.felo.me/) 提供支持 - 一个AI驱动的实时翻译和多语言字幕工具，轻松实现跨语言交流.
+本项目由 [Felo Subtitles](https://subtitles.felo.me/?utm_source=github&utm_medium=referral&utm_campaign=mac-audio) 提供支持 - 一个AI驱动的实时翻译和多语言字幕工具，轻松实现跨语言交流.
 
 **为什么选择 Felo Subtitles？**
 - 🎯 **智能说话人识别**: 借助强大的上下文分析与说话人识别技术，能够精准区分会议发言人，自动为每一段发言标注清晰身份
@@ -355,7 +355,7 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 - 🏥 **行业专业词汇**: 提供可自定义的语音识别词典与翻译专有名词库，帮助提升行业术语、品牌名、人物名等内容的识别与翻译准确性
 - 🌐 **字幕实时分享**: 通过一条分享链接，Felo Subtitles可让任何人实时查看字幕内容，提升跨地域协作效率
 
-[立即试用 Felo Subtitles →](https://subtitles.felo.me/)
+[立即试用 Felo Subtitles →](https://subtitles.felo.me/?utm_source=github&utm_medium=referral&utm_campaign=mac-audio)
 
 ---
 
