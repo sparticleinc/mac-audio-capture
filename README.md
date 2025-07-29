@@ -347,15 +347,15 @@ If build fails, make sure:
 
 ## 🎯 Project Support
 
-This project is supported by [Subtitles](https://subtitles.felo.me/) - an AI-powered real-time translation and multilingual subtitle tool that easily enables cross-language communication.
+This project is supported by [Felo Subtitles](https://subtitles.felo.me/) - an AI-powered real-time translation and multilingual subtitle tool that easily enables cross-language communication.
 
-**Why Subtitles?**
+**Why Felo Subtitles?**
 - 🎯 **Smart Speaker Recognition**: Advanced context analysis and speaker identification technology that accurately distinguishes meeting participants and automatically labels each speech segment with clear identity
 - 📊 **Intelligent Summary Templates**: Automatically extracts key information and generates structured summaries
 - 🏥 **Industry Professional Vocabulary**: Customizable speech recognition dictionaries and translation terminology databases help improve recognition and translation accuracy for industry terms, brand names, and personal names
 - 🌐 **Real-time Subtitle Sharing**: Through a single sharing link, Felo Subtitles allows anyone to view subtitle content in real-time, improving cross-regional collaboration efficiency
 
-[Try Subtitles Now →](https://subtitles.felo.me/)
+[Try Felo Subtitles Now →](https://subtitles.felo.me/)
 
 ---
 
