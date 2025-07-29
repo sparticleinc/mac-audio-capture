@@ -355,8 +355,6 @@ This project is supported by [Subtitles](https://subtitles.felo.me/) - an AI-pow
 - 🏥 **Industry Professional Vocabulary**: Customizable speech recognition dictionaries and translation terminology databases help improve recognition and translation accuracy for industry terms, brand names, and personal names
 - 🌐 **Real-time Subtitle Sharing**: Through a single sharing link, Felo Subtitles allows anyone to view subtitle content in real-time, improving cross-regional collaboration efficiency
 
-**Perfect for Audio Capture Users**: If you're using this audio capture module for content creation, podcasting, video production, or live streaming, [Subtitles](https://subtitles.felo.me/) can help you automatically generate accurate multilingual subtitles and translations from your captured audio files in real-time.
-
 [Try Subtitles Now →](https://subtitles.felo.me/)
 
 ---
